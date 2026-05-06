@@ -1,0 +1,11 @@
+{
+  "name": "task-manager-simple",
+  "version": "1.0.0",
+  "main": "app-memory.js",
+  "scripts": {
+    "start": "node app-memory.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
